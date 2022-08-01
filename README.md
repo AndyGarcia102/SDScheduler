@@ -1,1 +1,1 @@
-# COP4331-MySDSchedule
+# COP4331-MySDScheduler
