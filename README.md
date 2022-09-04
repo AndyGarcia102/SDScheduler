@@ -1,1 +1,1 @@
-# COP4331-MySDScheduler
+# Senior Design Scheduler Web Page
