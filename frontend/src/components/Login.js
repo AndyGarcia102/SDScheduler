@@ -324,7 +324,7 @@ function Login() {
                     <Row className = "justify-content-center">
                         <Col lg={4}>
                             <Form.Group controlId="formBasicPassword">
-                                <Form.Label style={{fontSize:'30px'}} id= 'password' >Password</Form.Label>
+                                <Form.Label style={{fontSize:'30px'}} id= 'password' > Test Password</Form.Label>
                                 <Form.Control required  type="password" placeholder="Password" ref={(c) => loginPassword = c}/>
                             </Form.Group>
                         </Col> 
